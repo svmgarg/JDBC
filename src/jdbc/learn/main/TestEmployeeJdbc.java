@@ -12,8 +12,8 @@ public class TestEmployeeJdbc {
 		
 		Employee  employee = new Employee();
 		employee.setName("Shivam");
-		employee.setUserName("AtSvm");
-		employee.setPhoneNo("9457372520");
+		employee.setUserName("shivam");
+		employee.setPhoneNo("123123123");
 		employee.setSalary(28000);
 		EmployeeDAO employeeDAO = new EmployeeDAO();
 		
